@@ -16,5 +16,5 @@
 ### Vulnerability Description:
 + Online Bike Rental v1 suffers from an authenticated file upload vulnerability allowing remote attackers to gain remote code execution (RCE) on the hosting webserver via uploading a maliciously crafted image.
 ### Vendor Info
-+ Vendor Homepage: ttps://www.sourcecodester.com/php/14374/online-bike-rental-phpmysql.html
-+ Software Link: ttps://www.sourcecodester.com/sites/default/files/download/Warren%20Daloyan/bikerental-php.zip
++ Vendor Homepage: https://www.sourcecodester.com/php/14374/online-bike-rental-phpmysql.html
++ Software Link: https://www.sourcecodester.com/sites/default/files/download/Warren%20Daloyan/bikerental-php.zip
