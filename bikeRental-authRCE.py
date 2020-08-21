@@ -1,6 +1,5 @@
 # Exploit Title: Online Bike Rental 1.0 - Authenticated Remote Code Execution
-# Exploit Author: Adeeb Shah (@hyd3sec) & Bobby Cooke (boku)
-# Vulnerability Discovery: Adeeb Shah (@hyd3sec)
+# Exploit Author: Bobby Cooke (boku)
 # Date: 2020-07-31
 # Vendor Homepage: ttps://www.sourcecodester.com/php/14374/online-bike-rental-phpmysql.html
 # Software Link: ttps://www.sourcecodester.com/sites/default/files/download/Warren%20Daloyan/bikerental-php.zip
